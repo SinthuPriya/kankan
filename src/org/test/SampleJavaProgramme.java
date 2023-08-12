@@ -3,7 +3,9 @@ package org.test;
 public class SampleJavaProgramme {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		System.out.println("Bash Changes");
+		System.out.println("git bash here");
 
 	}
 
